@@ -1,0 +1,1 @@
+[...new Set(Array.prototype.map.call(document.querySelectorAll('a'), e => e.href))].filter(e => e.includes('www.gdcdsy.com')).map(e => e.split('www.gdcdsy.com')[1])
