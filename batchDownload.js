@@ -74,8 +74,14 @@ htmlUrls.forEach((htmlUrl) => {
 
                 axios({
                     method: 'get',
-                    url: imageUrl,
-                    responseType: 'stream'
+                    url: imageUrl + '?tenantId=199931&viewType=1&k=' + Date.now(),
+                    responseType: 'stream',
+                    headers: {
+                        Referer: 'http://www.gdcdsy.com/',
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+                        Host: 'img201.yun300.cn',
+                        Dnt: '1'
+                    }
                 })
                .then((response) => {
                     const writer = fs.createWriteStream(imageSavePath);
