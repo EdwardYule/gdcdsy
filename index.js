@@ -5,4 +5,4 @@ const links = [...new Set(Array.prototype.map.call(document.querySelectorAll('a'
         window.open(e, '_blank');
     })
 
-// 全局替换static201.yun300.cn 为 空
+// 全局替换 //static201.yun300.cn 为 空
