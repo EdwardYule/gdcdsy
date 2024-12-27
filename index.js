@@ -4,3 +4,5 @@ const links = [...new Set(Array.prototype.map.call(document.querySelectorAll('a'
     .forEach(e => {
         window.open(e, '_blank');
     })
+
+// 全局替换static201.yun300.cn 为 空
