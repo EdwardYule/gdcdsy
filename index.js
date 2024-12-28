@@ -1,8 +1,15 @@
-// [...new Set(Array.prototype.map.call(document.querySelectorAll('a'), e => e.href))].filter(e => e.includes('www.gdcdsy.com')).map(e => e.split('www.gdcdsy.com')[1])
-const links = [...new Set(Array.prototype.map.call(document.querySelectorAll('a'), e => e.href))]
-    .filter(e => e.includes('www.gdcdsy.com'))
-    .forEach(e => {
-        window.open(e, '_blank');
-    })
+const express = require('express');
+const path = require('path');
 
-// 全局替换 //static201.yun300.cn 为 空
+// 创建Express应用实例
+const app = express();
+
+// 设置静态资源目录，这里假设静态资源都放在名为'public'的文件夹下，你可以按需修改
+const staticPath = path.join(__dirname, 'data');
+app.use(express.static(staticPath));
+
+// 监听端口，这里使用3000端口，可根据实际需求修改
+const port = 80;
+app.listen(port, () => {
+    console.log(`静态资源服务器正在监听 ${port} 端口`);
+});
