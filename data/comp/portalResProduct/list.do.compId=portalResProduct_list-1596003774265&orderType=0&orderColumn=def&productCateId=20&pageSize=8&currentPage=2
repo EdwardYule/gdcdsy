@@ -11,54 +11,6 @@
             <div class="p_Product proLi col-md-4 col-sm-6">
         <div class="box">
           <!-- 图片 -->
-          <a href="/product/702.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/pDKSeMIcRPGE-DEkdfdjkw.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='汕头-悦海湾' class='proImg js_thumb'
-              alt='汕头-悦海湾' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/702.html" class="p_title proLink">
-                汕头-悦海湾
-              </a>
-              <a href="/product/702.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/712.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/gDxL690DTouBvqG1dUoxpA.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='贑江市民公园' class='proImg js_thumb'
-              alt='贑江市民公园' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/712.html" class="p_title proLink">
-                贑江市民公园
-              </a>
-              <a href="/product/712.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
           <a href="/product/711.html" class="proLink" target="_parent">
             <div class="proImgBox">
               	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/fR24g93nSq2vPd5mM8UsDQ.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='汕头F16购物中心' class='proImg js_thumb'
@@ -80,126 +32,6 @@
           </div>
         </div>
       </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/724.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/4hmqhImeQDWcV6Gcwdqy5g.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='汕头-联泰香域水岸' class='proImg js_thumb'
-              alt='汕头-联泰香域水岸' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/724.html" class="p_title proLink">
-                汕头-联泰香域水岸
-              </a>
-              <a href="/product/724.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/704.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/tlQbieNSRV2-hYBqWqET6w.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='金时花园' class='proImg js_thumb'
-              alt='金时花园' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/704.html" class="p_title proLink">
-                金时花园
-              </a>
-              <a href="/product/704.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/703.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/wHa_eZkNSkeMu5hYyIxwog.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='汕头-香域水岸' class='proImg js_thumb'
-              alt='汕头-香域水岸' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/703.html" class="p_title proLink">
-                汕头-香域水岸
-              </a>
-              <a href="/product/703.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/705.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/YLiXKYjyTXuuPM9Hu4UT7A.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='南昌-香域滨江' class='proImg js_thumb'
-              alt='南昌-香域滨江' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/705.html" class="p_title proLink">
-                南昌-香域滨江
-              </a>
-              <a href="/product/705.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
-            <div class="p_Product proLi col-md-4 col-sm-6">
-        <div class="box">
-          <!-- 图片 -->
-          <a href="/product/706.html" class="proLink" target="_parent">
-            <div class="proImgBox">
-              	 <img src="/upload/s.png" lazy-src="//img201.yun300.cn/repository/image/tpydo8qyRVOJ8RklqogfQg.jpg_{i}xaf.jpg?tenantId=199931&viewType=1&k=1612235685000" title='南昌-香域中央' class='proImg js_thumb'
-              alt='南昌-香域中央' />
-	            </div>
-          </a>
-          <!-- 内容 -->
-          <div class="txtBox">
-            <!-- 标题 -->
-            <h3 class="proTitle">
-              <a href="/product/706.html" class="p_title proLink">
-                南昌-香域中央
-              </a>
-              <a href="/product/706.html" class="eye">
-              </a>
-            </h3>
-            <p class="line">
-            </p>
-          </div>
-        </div>
-      </div>
           </div>
     <!-- 分页 -->
     <div class="e_box e_OccupyBox-001 p_OccupyBox">
@@ -211,9 +43,7 @@
 							<i class="iconfont"></i><span class="i_pre">上一页</span>	                    </div>
 	             </div>
 																											<div class="pageNum">1</div>
-																				<div class="pageNum">2</div>
-																				<div class="pageNum active">3</div>
-																				<div class="pageNum">4</div>
+																				<div class="pageNum active">2</div>
 																<div class="next">
 	                	<div class="font">
 							<i class="iconfont"></i><span class="i_next">下一页</span>	                    </div>
@@ -222,9 +52,9 @@
 						<script type="text/javascript">
 				pagingVM=window.pagingVM||{};
 				pagingVM['portalResProduct_list-1596003774265']={
-					totalPage:"4",
+					totalPage:"2",
 					pageSize:"8",
-					currentPage:"3",
+					currentPage:"2",
 					turnPageType:'turnPage',
 
 					style:"e_pagebox-000",
@@ -290,7 +120,7 @@
     ctx: "",
     appId: "2",
     productMode: "",
-    requestParam: {"orderType":"0","xibcommonId":"","appType":"productCateId","orderColumn":"def","productCateId":"19"},
+    requestParam: {"orderType":"0","xibcommonId":"","appType":"productCateId","orderColumn":"def","productCateId":"20"},
     pageParam: {
       url: "/comp/portalResProduct/list.do?compId=portalResProduct_list-1596003774265",
       appId: "2",
