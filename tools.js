@@ -77,30 +77,6 @@ const getNewImagePath = (filePath) => {
   return filePath.replace(/\.jpg_(\d+)xaf\.jpg/, '.jpg');
 }
 
-const reGetFile = (filePath, req, res) => {
-  // if (extname === '.jpg') {
-  // // 如果jpg图片找不到，可能是请求了带尺寸的图片，把名字里面关于尺寸的信息去掉，直接返回原图
-  //   const originalPath = getNewImagePath(filePath)
-  //   fs.stat(originalPath, (originalErr, originalStats) => {
-  //       if (originalErr) {
-  //           notFoundHandler(req, res);
-  //           return;
-  //       }
-  //       serverErrorHandler(req, res);
-  //       return;
-  //       fs.readFile(originalPath, (readErr, data) => {
-  //           console.log(readErr, data);
-  //           if (readErr) {
-  //               serverErrorHandler(req, res);
-  //               return;
-  //           }
-  //           res.write(data);
-  //           res.end();
-  //       });
-  //   });
-  // }
-}
-
 const _getFile = (filePath, req, res) => {
   return new Promise((resolve, reject) => {
     fs.stat(filePath, (err, stats) => {
@@ -137,6 +113,5 @@ module.exports = {
   notFoundHandler,
   serverErrorHandler,
   getNewImagePath,
-  reGetFile,
   getFile,
 };
